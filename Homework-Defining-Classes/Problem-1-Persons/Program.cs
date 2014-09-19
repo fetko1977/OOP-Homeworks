@@ -101,8 +101,7 @@ class Program
         Console.Write("*Please enter your age: ");
         int age = int.Parse(Console.ReadLine()); //reading the console input for age. Mandatory!
         Console.Write("Please enter your email: ");
-        string line = Console.ReadLine(); //reading the console input for email. Optional!
-        string email = String.IsNullOrEmpty(line) ? "" : line;
+        string email = Console.ReadLine(); //reading the console input for email. Optional!
         
 
         Persons Person = new Persons(name, age, email); // creating a object from Persons class
