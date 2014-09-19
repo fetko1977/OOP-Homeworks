@@ -2,11 +2,11 @@
 
 class Persons
 {
-    private string name;
-    private int age;
-    private string email;
+    private string name; //private field for name
+    private int age; //private field for age
+    private string email; //private field for email
 
-    public string Name { 
+    public string Name { //public prop for name with validation
         get 
             {
                 return this.name;
@@ -23,7 +23,7 @@ class Persons
                 }
             } 
     }
-    public int Age 
+    public int Age //public prop for age with validation
     {
         get
         {
@@ -41,7 +41,7 @@ class Persons
             }
         }
     }
-    public string Email 
+    public string Email //public prop for email with validation. Note email is optional!
     {
         get
         {
@@ -67,19 +67,19 @@ class Persons
         }
     }
 
-    public Persons(string name, int age, string email = null)
+    public Persons(string name, int age, string email = null) //main constructor of the class
     {
         this.Name = name;
         this.Age = age;
         this.Email = email;
     }
 
-    public Persons(string name, int age)
+    public Persons(string name, int age) //seccond constructor which calling the main one
         : this(name, age, null)
     {
     }
 
-    public override string ToString()
+    public override string ToString() //public override toString() method for print on the console Persons object as a string
     {
         if (string.IsNullOrEmpty(this.Email))
         {
@@ -97,15 +97,15 @@ class Program
     static void Main()
     {
         Console.Write("*Please enter your name: ");
-        string name = Console.ReadLine();
+        string name = Console.ReadLine(); // reading the console input for name. Mandatory!
         Console.Write("*Please enter your age: ");
-        int age = int.Parse(Console.ReadLine());
+        int age = int.Parse(Console.ReadLine()); //reading the console input for age. Mandatory!
         Console.Write("Please enter your email: ");
-        string line = Console.ReadLine();
+        string line = Console.ReadLine(); //reading the console input for email. Optional!
         string email = String.IsNullOrEmpty(line) ? "" : line;
         
 
-        Persons Person = new Persons(name, age, email);
-        Console.WriteLine(Person);
+        Persons Person = new Persons(name, age, email); // creating a object from Persons class
+        Console.WriteLine(Person); // Print the object on the console
     }
 }
