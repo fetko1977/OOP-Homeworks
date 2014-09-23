@@ -1,0 +1,6 @@
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-3-PC-Catalog\bin\Debug\Problem-3-PC-Catalog.exe.config
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-3-PC-Catalog\bin\Debug\Problem-3-PC-Catalog.exe
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-3-PC-Catalog\bin\Debug\Problem-3-PC-Catalog.pdb
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-3-PC-Catalog\obj\Debug\Problem-3-PC-Catalog.csprojResolveAssemblyReference.cache
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-3-PC-Catalog\obj\Debug\Problem-3-PC-Catalog.exe
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-3-PC-Catalog\obj\Debug\Problem-3-PC-Catalog.pdb

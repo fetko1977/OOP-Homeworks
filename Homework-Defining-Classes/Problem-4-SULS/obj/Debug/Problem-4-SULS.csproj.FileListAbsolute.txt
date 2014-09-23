@@ -1,0 +1,6 @@
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-4-SULS\bin\Debug\Problem-4-SULS.exe.config
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-4-SULS\obj\Debug\Problem-4-SULS.csprojResolveAssemblyReference.cache
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-4-SULS\bin\Debug\Problem-4-SULS.exe
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-4-SULS\bin\Debug\Problem-4-SULS.pdb
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-4-SULS\obj\Debug\Problem-4-SULS.exe
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-4-SULS\obj\Debug\Problem-4-SULS.pdb

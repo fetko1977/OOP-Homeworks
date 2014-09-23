@@ -1,0 +1,6 @@
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-2-Laptop-Shop\bin\Debug\Problem-2-Laptop-Shop.exe.config
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-2-Laptop-Shop\bin\Debug\Problem-2-Laptop-Shop.exe
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-2-Laptop-Shop\bin\Debug\Problem-2-Laptop-Shop.pdb
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-2-Laptop-Shop\obj\Debug\Problem-2-Laptop-Shop.csprojResolveAssemblyReference.cache
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-2-Laptop-Shop\obj\Debug\Problem-2-Laptop-Shop.exe
+E:\MyProjects\SoftUni\OOP\Homeworks\Homework Source Code\OOP-Homeworks\Homework-Defining-Classes\Problem-2-Laptop-Shop\obj\Debug\Problem-2-Laptop-Shop.pdb
